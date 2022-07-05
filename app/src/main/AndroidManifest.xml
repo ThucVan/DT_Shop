@@ -22,7 +22,7 @@
         android:theme="@style/Theme.DT_Shop"
         tools:targetApi="31">
         <activity
-            android:name=".User"
+            android:name=".Activity.User"
             android:exported="false" />
         <activity
             android:name=".Activity.register_activity"
